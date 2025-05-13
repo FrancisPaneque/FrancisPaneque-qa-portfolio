@@ -1,10 +1,14 @@
-# FrancisPaneque-qa-portfolio# 🎯 Fran - QA Portfolio
+# FrancisPaneque-qa-portfolio 🎯
 
-Testear? Aprender? 💁🏽‍♂️
+## Testear? Aprender? 💁🏽‍♂️
 
-Buenas soy Francis Paneque, QA Specialist con experiencia desde 2023 en el sector IT 👨🏽‍💻 principalmente especializado en banca 🏦. Durante este tiempo he aprendido acerca de bastantes tecnologías, especializándome en el mundo del testing, trabajando en el día a día tanto en pruebas funcionales como automatizadas. 
+¡Hola! Soy **Francis Paneque**, QA Specialist desde 2023 en el sector IT, con experiencia principalmente en el sector bancario 🏦.
 
-A lo largo de este repositorio, me gustaría enseñaros todo lo que he podido aprender y voy aprendiendo acerca de este mundo, por lo que podras econtrar todo tipo de contenido relacionado con el mundo del testing🛠️.
+Durante este tiempo he trabajado en entornos exigentes, combinando **pruebas funcionales manuales** con **automatización** usando tecnologías como Java, Selenium, Postman, entre otras. Siempre he creído que el mundo del testing no se trata solo de encontrar errores, sino de **asegurar y prevenir**.
+
+Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo aprendiendo— en este fascinante mundo del testing 🛠️. Aquí encontrarás ejemplos reales de proyectos de automatización, pruebas manuales, documentación técnica y más.
+
+¡Gracias por pasar por aquí y bienvenid@ a mi portafolio!
 
 ---
 
@@ -12,53 +16,32 @@ A lo largo de este repositorio, me gustaría enseñaros todo lo que he podido ap
 
 ### 🧪 Automatización
 
-- `automation/selenium-java/`  
-  Proyecto completo de automatización web con Selenium + Java.
-
-- `automation/postman-api/`  
-  Pruebas de API con Postman y ejecución con Newman + CI.
+- `Próximamente`
 
 ### 📋 Pruebas Manuales
 
-- Casos de prueba documentados en Excel y Markdown.
-- Simulación de bugs en Jira.
-- Checklists y plantillas reutilizables.
+- `Próximamente`
 
 ### 🔁 CI/CD para QA
 
-- Ejemplos de GitHub Actions y Jenkins integrando pruebas.
-- Explicación paso a paso de cada pipeline.
+- `Próximamente`
 
 ### 📄 Documentación QA
 
-- Estrategia de pruebas.
-- Checklist de releases.
-- Buenas prácticas de aseguramiento de calidad.
+- `Próximamente`
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-- Selenium, Java, TestNG, Maven
-- Postman, Newman
-- Jira, Azure DevOps (simulado)
-- GitHub Actions, Jenkins
-- Excel, Markdown
-
----
-
-## 🙋 Sobre mí
-
-Me especializo en la calidad de software en entornos críticos como la banca. Combino pruebas funcionales manuales con automatización e integración continua para lograr entregas estables y eficientes.
-
-> ¿Quieres ver un ejemplo específico? Revisa la carpeta `/automation/selenium-java/`
+- `Próximamente`
 
 ---
 
 ## 📬 Contacto
 
-📧 Email: tuemail@ejemplo.com  
-🔗 LinkedIn: [TuPerfil](https://linkedin.com/in/tuusuario)
+📧 Email: `Próximamente`  
+🔗 LinkedIn: [Francis Paneque](www.linkedin.com/in/francis-paneque-21092a252)
 
 ---
 
