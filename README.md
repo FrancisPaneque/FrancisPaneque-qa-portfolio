@@ -14,11 +14,11 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 
 ## 📦 ¿Qué encontrarás en este portafolio?
 
-### 🧪 Automatización
+### 📋 Pruebas Manuales
 
 - `Próximamente`
 
-### 📋 Pruebas Manuales
+### 🧪 Automatización
 
 - `Próximamente`
 
@@ -40,7 +40,7 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 
 ## 📬 Contacto
 
-📧 Email: `Próximamente`  
+📧 Email: `francisco.j.paneque@gmail.com`  
 🔗 LinkedIn: [Francis Paneque](https://www.linkedin.com/in/francis-paneque-21092a252/)
 
 ---
