@@ -41,7 +41,7 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 ## 📬 Contacto
 
 📧 Email: `Próximamente`  
-🔗 LinkedIn: [Francis Paneque](www.linkedin.com/in/francis-paneque-21092a252)
+🔗 LinkedIn: [Francis Paneque](https://www.linkedin.com/in/francis-paneque-21092a252/)
 
 ---
 
