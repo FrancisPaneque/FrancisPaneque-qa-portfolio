@@ -9,7 +9,8 @@ Este espacio está orientado a mostrar cómo aplico metodologías ágiles, plani
 ## 🧭 Contenido de esta sección
 
 ### 🏁 Introducción a las pruebas manuales
-> [01-Introducción](./Pruebas Manuales desde cero - Francisco José Paneque Jurado.pdf)
+> [01-Introducción](./PruebasManualesDesdeCero.pdf)
+Breve introducción a las pruebas manuales, en la que veras características, ventajas, desventajas herramientas... de forma breve.
 
 ### 🧑‍💻 Responsabilidades del QA
 > [PROXIMAMENTE](./01-responsabilidades-qa.md)  
