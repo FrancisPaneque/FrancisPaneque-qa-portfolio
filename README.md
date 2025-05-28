@@ -16,7 +16,7 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 
 ### 📋 Pruebas Manuales
 
-- `Próximamente`
+- `Pruebas manuales desde cero`
 
 ### 🧪 Automatización
 
