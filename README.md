@@ -14,7 +14,7 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 
 ## 📦 ¿Qué encontrarás en este portafolio?
 
-### [📋 Pruebas Manuales] (https://github.com/FrancisPaneque/FrancisPaneque-qa-portfolio/tree/main/Pruebas%20Manuales)
+### [📋 Pruebas Manuales](./Pruebas Manuales)
 
 - `Pruebas manuales desde cero`
 
