@@ -17,7 +17,7 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 ### [📋 Pruebas Manuales](https://github.com/FrancisPaneque/FrancisPaneque-qa-portfolio/tree/main/Pruebas%20Manuales)
 
 - `Introducción`
-- `1.0 Responsabilidades como QA`
+- `1.0 Responsabilidades del QA`
 
 ### 🧪 Automatización
 
