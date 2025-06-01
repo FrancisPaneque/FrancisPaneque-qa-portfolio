@@ -9,8 +9,8 @@ Este espacio está orientado a mostrar cómo aplico metodologías ágiles, plani
 ## 🧭 Contenido de esta sección
 
 ### 🏁 Introducción a las pruebas manuales
-> [Introducción](./PruebasManualesDesdeCero.pdf)
-Breve introducción a las pruebas manuales, en la que veras características, ventajas, desventajas herramientas... .
+> [Introducción](./PruebasManualesDesdeCero.pdf)  
+Breve introducción a las pruebas manuales, en la que veras características, ventajas, desventajas, herramientas, etc.
 
 ### 🧑‍💻 Responsabilidades del QA
 > [01-responsabilidades-qa](./01-responsabilidades-qa.md)  
