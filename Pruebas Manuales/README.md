@@ -9,11 +9,11 @@ Este espacio está orientado a mostrar cómo aplico metodologías ágiles, plani
 ## 🧭 Contenido de esta sección
 
 ### 🏁 Introducción a las pruebas manuales
-> [01-Introducción](./PruebasManualesDesdeCero.pdf)
+> [Introducción](./PruebasManualesDesdeCero.pdf)
 Breve introducción a las pruebas manuales, en la que veras características, ventajas, desventajas herramientas... de forma breve.
 
 ### 🧑‍💻 Responsabilidades del QA
-> [PROXIMAMENTE](./01-responsabilidades-qa.md)  
+> [01-responsabilidades-qa](./01-responsabilidades-qa.md)  
 Lista clara de tareas y funciones del rol de QA en un entorno ágil: desde la planificación hasta la comunicación con equipos técnicos.
 
 ### 🌀 Metodologías de desarrollo
