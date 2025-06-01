@@ -64,3 +64,9 @@ A continuación, detallaré las principales responsabilidades de un QA, basadas 
 > ⚠️ El QA no es quien busca culpables, sino quien impulsa la calidad.
 
 Desde mi experiencia un buen QA es proactivo, comunicativo, detallista y trabaja codo a codo con el equipo para construir software confiable y usable.
+
+---
+
+🎓 Autor: **Francis Paneque Jurado**  
+🔍 QA Specialist | Pruebas Funcionales & Automatizadas  
+📧 francisco.j.paneque@gmail.com / 🌐 [LinkedIn](https://www.linkedin.com/in/francis-paneque-21092a252/)
