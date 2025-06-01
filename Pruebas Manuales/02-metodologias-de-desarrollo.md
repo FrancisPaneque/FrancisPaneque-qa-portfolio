@@ -97,3 +97,9 @@ Scrum es un enfoque ágil que trabaja en ciclos iterativos llamados **sprints**.
 ---
 
 > 💡 Como QA, es fundamental adaptar nuestras estrategias de pruebas según la metodología del equipo para maximizar el valor del testing en cada fase del desarrollo.
+
+---
+
+🎓 Autor: **Francis Paneque Jurado**  
+🔍 QA Specialist | Pruebas Funcionales & Automatizadas  
+📧 francisco.j.paneque@gmail.com / 🌐 [LinkedIn](https://www.linkedin.com/in/francis-paneque-21092a252/)
