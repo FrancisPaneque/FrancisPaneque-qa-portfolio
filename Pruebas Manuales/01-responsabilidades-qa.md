@@ -2,7 +2,7 @@
 
 El rol del **QA (Quality Assurance)** es clave dentro de cualquier ciclo de desarrollo de software. No se trata solo de encontrar errores, sino de **prevenirlos, documentarlos, comunicarlos** y asegurar que el producto final cumpla con los requerimientos funcionales y de calidad.
 
-A continuación, se detallaré las principales responsabilidades de un QA, basadas en mi experiencia profesional:
+A continuación, detallaré las principales responsabilidades de un QA, basadas en mi experiencia profesional:
 
 ---
 
