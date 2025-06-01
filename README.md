@@ -18,6 +18,7 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 
 - `Introducción`
 - `1.0 Responsabilidades del QA`
+- `02-metodologias-de-desarrollo`
 
 ### 🧪 Automatización
 
