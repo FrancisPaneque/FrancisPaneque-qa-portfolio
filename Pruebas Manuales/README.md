@@ -17,7 +17,7 @@ Breve introducción a las pruebas manuales, en la que veras características, ve
 Lista clara de tareas y funciones del rol de QA en un entorno ágil: desde la planificación hasta la comunicación con equipos técnicos.
 
 ### 🌀 Metodologías de desarrollo
-> [02-metodologias-de-desarrollo](./02-metodologias-desarrollo.md)  
+> [02-metodologias-de-desarrollo](./02-metodologias-de-desarrollo.md)  
 Resumen de modelos como Cascada y Scrum, y cómo afectan al ciclo de pruebas.
 
 ### ✅ Principios del Testing
