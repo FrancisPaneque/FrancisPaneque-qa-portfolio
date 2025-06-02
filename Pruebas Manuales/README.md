@@ -21,11 +21,11 @@ Lista clara de tareas y funciones del rol de QA en un entorno ágil: desde la pl
 Resumen de modelos como Cascada y Scrum, y cómo afectan al ciclo de pruebas.
 
 ### ✅ Principios del Testing
-> [PROXIMAMENTE](./03-principios-testing.md)  
+> [03-principios-del-Software-Testing](./03-principios-del-Software-Testing.md)  
 Principios fundamentales del software testing explicados con ejemplos aplicables a proyectos reales.
 
 ### 🧪 Pruebas Ágiles
-> [PROXIMAMENTE](./04-pruebas-agiles.md)  
+> [04-pruebas-agiles](./04-pruebas-agiles.md)  
 Cómo se integran las pruebas manuales dentro de un entorno ágil y cómo se colabora en ciclos iterativos.
 
 ---
