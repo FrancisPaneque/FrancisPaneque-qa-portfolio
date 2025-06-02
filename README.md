@@ -19,6 +19,8 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 - `Introducción`
 - `01 Responsabilidades del QA`
 - `02 Metodologias de desarrollo`
+- `03 Principios del Software Testing`
+- `04 Pruebas Ágiles`
 
 ### 🧪 Automatización
 
