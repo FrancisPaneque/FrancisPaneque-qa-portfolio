@@ -32,7 +32,7 @@ Cómo se integran las pruebas manuales dentro de un entorno ágil y cómo se col
 
 ## 🗂️ Planificación y gestión de pruebas
 
-> Carpeta: [PROXIMAMENTE](./05-plan-de-pruebas/)
+> Carpeta: [05-planificacion-y-gestion-de-pruebas](./05-planificacion-y-gestion-de-pruebas/)
 
 Contiene ejemplos completos y comentados de:
 
