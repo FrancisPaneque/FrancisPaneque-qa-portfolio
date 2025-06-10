@@ -75,4 +75,4 @@ Esto te permitirá ver cómo aplico la teoría al mundo real del testing.
 ---
 
 📌 Documento elaborado por **Francis Paneque** – QA Specialist  
-✉️ francisco.j.paneque@gmail.com | 🌐 [LinkedIn](www.linkedin.com/in/francis-paneque-21092a252)
+✉️ francisco.j.paneque@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/francis-paneque-21092a252)
