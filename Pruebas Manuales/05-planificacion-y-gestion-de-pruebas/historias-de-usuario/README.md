@@ -2,8 +2,7 @@
 
 En un entorno ágil, las **Historias de Usuario (US)** representan funcionalidades desde el punto de vista del usuario final. Son el primer paso del flujo de trabajo del QA, ya que definen **lo que debe ser validado** y permiten establecer los **criterios de aceptación**. En estA página veremos como enfocarlo desde un punto de vista más teórico y como a lo largo de mi carrera lo he encontrado en distintos equipos de trabajo en el día a día.
 
-⚠️ Anotar que 
-
+⚠️ Además de los ejemplos que veras en este README te dejo un EXCEL con un ejemplo algo más completo y con puntos que pueden ser importantes. 
 
 ---
 # **DESDE LA TEORÍA**
@@ -45,6 +44,17 @@ Scenario: Mostrar el saldo de la cuenta en el panel principal
 &nbsp;&nbsp; When el cliente accede al panel principal
   
 &nbsp;&nbsp; Then el sistema debe mostrar el saldo actual de la cuenta en una sección visible
+
+---
+## ➕ Otros campos que encontraremos
+
+**ID de la Historia:** Identificador único de la historia (por ejemplo, US001).
+
+**Prioridad:** Nivel de urgencia o impacto (Alta, Media, Baja).
+
+**Estimación (Story Points):** Tiempo estimado de desarrollo, típicamente en puntos de historia.
+
+**Dependencias:** Historias o tareas que deben realizarse antes.
 
 ---
 
