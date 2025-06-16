@@ -10,7 +10,7 @@ En esta carpeta encontrarás una visión clara de los elementos clave que todo e
 
 A continuación, se explican los pilares que componen la planificación QA, y que serán desarrollados de forma progresiva con ejemplos aplicados a [Parabank](https://parabank.parasoft.com), una aplicación bancaria demo:
 
-## [🧾 Historias de Usuario](/05-planificacion-y-gestion-de-pruebas/historias-de-usuario)
+## [🧾 Historias de Usuario](./05-planificacion-y-gestion-de-pruebas/historias-de-usuario)
 
 Las historias de usuario representan las necesidades del cliente en lenguaje natural. A partir de ellas el QA define criterios de aceptación y diseña los casos de prueba que validan la funcionalidad esperada.
 
