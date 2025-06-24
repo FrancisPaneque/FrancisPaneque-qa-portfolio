@@ -21,7 +21,7 @@ Las historias de usuario representan las necesidades del cliente en lenguaje nat
 
 ---
 
-## 📑 Plan de Pruebas
+## [📑 Plan de Pruebas](./plan-de-pruebas/)
 
 Es el documento que estructura **qué se va a probar, cómo, cuándo y con qué recursos**. Se define a partir del análisis del producto y de las historias de usuario.
 
