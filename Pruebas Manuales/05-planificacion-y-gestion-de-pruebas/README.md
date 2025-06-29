@@ -32,7 +32,7 @@ Es el documento que estructura **qué se va a probar, cómo, cuándo y con qué 
 
 ---
 
-## 📦 Suite de Pruebas Funcionales
+## [📦 Suite de Pruebas Funcionales](./suite-de-pruebas-funcionales/)
 
 Una suite de pruebas agrupa casos relacionados que validan una misma funcionalidad o módulo. Están diseñadas a partir de los criterios de aceptación.
 
