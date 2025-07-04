@@ -43,7 +43,7 @@ Una suite de pruebas agrupa casos relacionados que validan una misma funcionalid
 
 ---
 
-## 🐞 Plantilla de Reporte de Bugs
+## [🐞 Plantilla de Reporte de Bugs](./reporte-de-bugs/)
 
 Tener una plantilla clara para reportar errores es esencial para facilitar su corrección. Esta sección te enseñará cómo crear reportes útiles, reproducibles y bien priorizados.
 
