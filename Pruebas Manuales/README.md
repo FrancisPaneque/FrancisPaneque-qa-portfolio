@@ -44,7 +44,7 @@ Contiene ejemplos completos y comentados de:
 ---
 
 ## 🔄 Ciclo de vida de un Bug
-> [06-ciclo-de-vida-del-bug](./06-ciclo-de-vida-de-un-bug.md)  
+> [06-ciclo-de-vida-del-bug](./06-ciclo-de-vida-del-bug)  
 Flujo completo desde el descubrimiento de un bug hasta su cierre, con énfasis en la trazabilidad y seguimiento.
 
 ---
