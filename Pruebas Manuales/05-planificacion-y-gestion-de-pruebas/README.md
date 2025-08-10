@@ -1,6 +1,6 @@
 # 📋 Planificación y Gestión de Pruebas
 
-Esta sección está dedicada a explicar, estructurar y ejemplificar el proceso completo de **planificación, diseño y documentación de pruebas funcionales** en un entorno real, de una forma mas manual, ya que realmente en un proyecto real no trabajaremos comunmente con excel, word para pdp y demás, si no que lo haremos midiante gestores como Azure o Jira.
+Esta sección está dedicada a explicar, estructurar y ejemplificar el proceso completo de **planificación, diseño y documentación de pruebas funcionales** en un entorno real, de una forma mas manual, ya que realmente en un proyecto real no trabajaremos comunmente con excel, word para pdp y demás, si no que lo haremos mediante gestores como Azure o Jira.
 
 En esta carpeta encontrarás una visión clara de los elementos clave que todo equipo QA debe dominar para asegurar la calidad de un sistema, **desde la historia de usuario hasta la ejecución de pruebas**.
 
