@@ -21,7 +21,8 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 - `02 Metodologias de desarrollo`
 - `03 Principios del Software Testing`
 - `04 Pruebas Ágiles`
-- `05-planificacion-y-gestion-de-pruebas`
+- `05 Planificacion y gestion de pruebas`
+- `06 Ciclo de vida del bug`
 
 ### 🧪 Automatización
 
