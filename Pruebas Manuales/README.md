@@ -40,7 +40,6 @@ Contiene ejemplos completos y comentados de:
 - 🧾 Historias de usuario
 - 📦 Suite de pruebas funcionales
 - 🐞 Plantilla de reporte de bugs
-- 🧠 Diferencias entre bug, error y falla
 
 ---
 
