@@ -54,17 +54,6 @@ Tener una plantilla clara para reportar errores es esencial para facilitar su co
 
 ---
 
-## 🧠 Diferencias entre Bug, Error y Falla
-
-Conceptos que muchas veces se confunden, pero que como QA debes manejar con precisión para comunicarte bien con el equipo técnico.
-
-📌 Verás:  
-- Definiciones claras.  
-- Tabla comparativa.  
-- Ejemplos sencillos y memorables.
-
----
-
 ## 💻 Aplicación práctica: Parabank
 
 Todos los puntos anteriores serán ilustrados con ejemplos prácticos basados en la app de banca demo:  
