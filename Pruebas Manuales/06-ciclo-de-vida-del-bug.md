@@ -8,28 +8,51 @@ Este proceso asegura trazabilidad, comunicación efectiva y control de calidad e
 ## 📋 Etapas típicas
 
 1. **Nuevo / Reportado**  
-   El bug ha sido detectado y documentado por QA o un usuario.
+   - El bug ha sido detectado por QA, un usuario final o cualquier miembro del equipo y se documenta en la herramienta de seguimiento (por ejemplo: Jira, Azure DevOps).  
+   - Se incluye información como: descripción, pasos para reproducir, entorno afectado y evidencias (capturas de pantalla, logs, vídeos).  
+   - *Ejemplo:* QA detecta que al intentar transferir fondos con importe negativo, la aplicación no muestra el mensaje de error esperado.
 
 2. **Asignado**  
-   El responsable del proyecto asigna el bug a un desarrollador.
+   - El líder técnico, Project Manager o Scrum Master asigna el bug a un desarrollador responsable de corregirlo.  
+   - Se prioriza en función de la severidad y el impacto en el negocio.  
+   - *Ejemplo:* El bug detectado en transferencias es asignado al desarrollador de backend que gestiona la lógica de validación de importes.
 
-3. **En progreso / En reparación**  
-   El desarrollador trabaja en la corrección.
+3. **Open**  
+   - El desarrollador comienza a trabajar en la incidencia y confirma que puede reproducir el error.  
+   - En esta etapa, el bug puede recibir alguno de estos estados derivados:  
+     - **Duplicado:** ya existe un reporte previo idéntico.  
+     - **Rechazado:** el bug no es válido o el comportamiento es esperado según el diseño.  
+     - **Aplazado:** se reconoce el problema, pero se pospone su corrección para una futura iteración.  
+   - *Ejemplo:* El desarrollador confirma que el bug es válido y pasa a implementar la solución.
 
-4. **Corregido / Fixed**  
-   El cambio ha sido implementado en el código.
+4. **Fixed**  
+   - El desarrollador implementa la corrección en el código y la sube al repositorio de desarrollo.  
+   - Se documentan los cambios realizados y se enlazan con el bug en la herramienta de seguimiento.  
+   - *Ejemplo:* Se añade una validación en el backend para que importe negativo muestre un mensaje de error.
 
-5. **En pruebas / Ready for QA**  
-   QA verifica si la corrección funciona y no afecta otras partes del sistema.
+5. **Testing**  
+   - El equipo de QA recibe la nueva versión con el fix y ejecuta las pruebas de validación.  
+   - Se revisan no solo los pasos del bug, sino también casos relacionados para evitar regresiones.  
+   - *Ejemplo:* QA prueba transferencias con importe negativo y positivo para confirmar que todo funciona correctamente.
 
-6. **Reabierto** *(si aplica)*  
-   Si el bug persiste o reaparece, se vuelve a abrir.
+6. **Reopen** *(si aplica)*  
+   - Si durante la fase de testing el bug persiste o se detectan errores colaterales, el bug se reabre.  
+   - Se devuelve al estado **Open** y se notifica al desarrollador para nueva corrección.  
+   - *Ejemplo:* El mensaje de error aparece, pero con un texto incorrecto, por lo que se reabre.
 
-7. **Cerrado**  
-   La corrección es validada y aprobada por QA.
+7. **Verificado**  
+   - QA confirma que la corrección funciona como se esperaba y que no hay efectos adversos.  
+   - *Ejemplo:* Tras el fix final, el sistema muestra el mensaje correcto y no afecta otras funciones.
 
-8. **Rechazado / No reproducible** *(si aplica)*  
-   El bug no se puede replicar o se considera inválido.
+8. **Closed**  
+   - El bug se da por resuelto y se cierra definitivamente en la herramienta de gestión.  
+   - No requiere más acciones y se considera parte del historial del proyecto.  
+   - *Ejemplo:* El bug queda cerrado y marcado como resuelto en la release correspondiente.
+
+---
+
+## Diagrama del ciclo de Vida del Bug
+![Image_Alt](https://github.com/FrancisPaneque/FrancisPaneque-qa-portfolio/blob/561e6bc74007852a6ff65cffe62432d3c997d1c9/Pruebas%20Manuales/diagramaCVB-ByFP.png)
 
 ---
 
