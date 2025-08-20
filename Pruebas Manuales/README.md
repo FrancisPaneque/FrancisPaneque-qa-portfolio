@@ -50,7 +50,8 @@ Flujo completo desde el descubrimiento de un bug hasta su cierre, con énfasis e
 ---
 
 ## 🔍 Tipos de Pruebas Funcionales y No Funcionales
-> [07-tipos-de-pruebas](./07-tipos-de-pruebas.md)  
+> [07-tipos-de-pruebas](./07-tipos-de-pruebas.md)
+> [Pwp-tipos-de-pruebas](./Tipos-de-Pruebas-Funcionales-y-No-Funcionales-ByFrancisPaneque.pdf)
 Explicación y ejemplos de pruebas Smoke, Regresión, UAT, Performance, Seguridad y más.
 
 ---
