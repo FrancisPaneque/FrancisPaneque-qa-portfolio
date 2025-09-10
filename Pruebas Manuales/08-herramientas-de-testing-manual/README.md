@@ -66,14 +66,5 @@ Cada subcarpeta contendrá:
 
 ---
 
-📂 Estructura de este apartado:
-06-herramientas/
-├── README.md
-├── capturas-grabaciones/
-├── jira-azure/
-├── testrail/
-├── devtools/
-└── browserstack/
-
 ✍️ Documento elaborado por **Francis Paneque – QA Specialist**  
 ✉️ francisco.j.paneque@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/francis-paneque-21092a252)
