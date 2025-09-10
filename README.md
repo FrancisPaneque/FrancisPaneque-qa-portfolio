@@ -24,6 +24,7 @@ Este repositorio es mi forma de compartir todo lo que he aprendido —y sigo apr
 - `05 Planificacion y gestion de pruebas`
 - `06 Ciclo de vida del bug`
 - `07 Tipos de pruebas`
+- `08 Herramientas de testing manual`
 
 ### 🧪 Automatización
 
