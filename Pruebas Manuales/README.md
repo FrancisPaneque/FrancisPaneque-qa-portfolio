@@ -61,7 +61,7 @@ Explicación y ejemplos de pruebas Smoke, Regresión, UAT, Performance, Segurida
 
 ## 🛠️ Herramientas usadas en testing manual
 
-> Carpeta: [PROXIMAMENTE](./08-herramientas-testing/)
+> Carpeta: [08-herramientas-de-testing-manual](./08-herramientas-de-testing-manual/)
 
 Aquí encontrarás herramientas útiles para mejorar el trabajo como tester:
 
