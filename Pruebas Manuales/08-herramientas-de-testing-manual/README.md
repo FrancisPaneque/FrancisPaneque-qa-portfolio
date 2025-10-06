@@ -9,7 +9,7 @@ En esta carpeta encontrarás una recopilación de utilidades que utilizo o he in
 Registrar evidencias es uno de los pilares del testing manual. Estas herramientas permiten capturar y comunicar errores de manera visual y clara.  
 
 - **Lightshot** → Ideal para capturas rápidas con anotaciones.  
-- **Screencastify** → Grabaciones de pantalla que muestran el flujo exacto del bug.  
+- **Screencastify** → Grabaciones de pantalla que muestran el flujo exacto del bug...  
 
 💡 *Ejemplo:* Documentar un bug en login con capturas paso a paso y grabación del flujo.
 
@@ -22,7 +22,7 @@ Permiten gestionar bugs, tareas, épicas e historias de usuario, así como repor
 - **Jira** → Muy utilizado en entornos ágiles con tableros Scrum/Kanban.  
 - **Azure DevOps** → Integra gestión de bugs, pipelines y versionado de código.  
 
-💡 *Ejemplo:* Crear un ticket en Jira con severidad, prioridad, pasos de reproducción y evidencias adjuntas.
+💡 *Ejemplo:* Crear un Bug en Azure con severidad, prioridad, pasos de reproducción y evidencias adjuntas.
 
 ---
 
