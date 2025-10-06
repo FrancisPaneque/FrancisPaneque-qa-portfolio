@@ -51,6 +51,8 @@ Durante una prueba de login, si la aplicación no muestra el mensaje de error co
 - Facilita la comparación visual de cambios entre versiones.  
 - Útil en auditorías y validaciones visuales.  
 
+![](https://github.com/FrancisPaneque/FrancisPaneque-qa-portfolio/blob/main/Pruebas%20Manuales/08-herramientas-de-testing-manual/capturas-y-grabaciones/GoFullPage.png)
+
 🧩 **Ejemplo práctico:**  
 Durante una prueba de interfaz, si necesitas documentar todo el flujo del “Resumen de Cuentas” de Parabank:
 1. Usa GoFullPage para capturar toda la página.  
