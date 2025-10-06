@@ -26,7 +26,9 @@ En este apartado encontrarás dos herramientas muy útiles para generar capturas
 Durante una prueba de login, si la aplicación no muestra el mensaje de error correcto, puedes:
 1. Capturar la pantalla con Lightshot.  
 2. Añadir una flecha señalando el mensaje incorrecto.  
-3. Subir la imagen al reporte de bug en Jira o Azure DevOps.  
+3. Subir la imagen al reporte de bug en Jira o Azure DevOps.
+
+![](https://github.com/FrancisPaneque/FrancisPaneque-qa-portfolio/blob/main/Pruebas%20Manuales/08-herramientas-de-testing-manual/capturas-y-grabaciones/ligshot.jpeg) 
 
 🔗 [Descargar Lightshot](https://app.prntscr.com/es/)
 
@@ -73,6 +75,8 @@ Durante una prueba de interfaz, si necesitas documentar todo el flujo del “Res
 - Ideal para reproducir bugs visuales o de comportamiento dinámico.  
 - Facilita al desarrollador la comprensión del problema.  
 - Muy útil para registrar pasos en flujos largos o procesos que involucran varias pantallas.
+
+![](https://github.com/FrancisPaneque/FrancisPaneque-qa-portfolio/blob/main/Pruebas%20Manuales/08-herramientas-de-testing-manual/capturas-y-grabaciones/Screencastify.jpeg) 
 
 🧩 **Ejemplo práctico:**  
 Durante una prueba de transferencias, si el sistema no actualiza el saldo correctamente:
